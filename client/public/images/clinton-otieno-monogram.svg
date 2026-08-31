@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Clinton Otieno monogram</title>
+  <rect width="64" height="64" rx="4" fill="#182632"/>
+  <path d="M29 18H19c-5 0-8 4-8 14s3 14 8 14h10v-6h-8c-2 0-4-2-4-8s2-8 4-8h8z" fill="#fbf9f4"/>
+  <path d="M35 18h10c5 0 8 4 8 14s-3 14-8 14H35zm6 6v16h3c2 0 3-2 3-8s-1-8-3-8z" fill="#c59b52"/>
+  <path d="M32 12v40" stroke="#7d9383" stroke-width="2"/>
+</svg>
